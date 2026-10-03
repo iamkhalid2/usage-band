@@ -1,0 +1,18 @@
+{
+  "name": "usage-band",
+  "description": "Claude Code mods: small live UI additions that run inside Claude Code.",
+  "owner": { "name": "Khalid", "email": "contact@iamkhalid.xyz", "url": "https://github.com/iamkhalid2" },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./plugins/usage-band",
+      "description": "Mod: a slim retro line above the prompt showing your plan's 5-hour and weekly usage limits.",
+      "category": "mod",
+      "tags": ["mod", "ui", "usage", "rate-limits", "status"],
+      "keywords": ["mod", "usage", "rate limit", "plan usage", "band"],
+      "author": { "name": "Khalid", "email": "contact@iamkhalid.xyz", "url": "https://github.com/iamkhalid2" },
+      "homepage": "https://github.com/iamkhalid2/usage-band",
+      "license": "MIT"
+    }
+  ]
+}

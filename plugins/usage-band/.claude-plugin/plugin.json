@@ -1,0 +1,11 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Mod: a slim retro line above the prompt showing your plan's 5-hour and weekly usage limits.",
+  "author": { "name": "Khalid", "email": "contact@iamkhalid.xyz", "url": "https://github.com/iamkhalid2" },
+  "homepage": "https://github.com/iamkhalid2/usage-band",
+  "repository": "https://github.com/iamkhalid2/usage-band",
+  "license": "MIT",
+  "keywords": ["mod", "usage", "rate-limits", "ui"],
+  "types": "./types/index.d.ts"
+}
